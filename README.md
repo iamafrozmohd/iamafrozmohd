@@ -25,7 +25,7 @@ Security Analyst / SOC (Tier 1–2) · Incident Response · Vulnerability Manage
 | Project | What it shows |
 |---|---|
 | 🔍 **[Detection Rules Library](https://github.com/iamafrozmohd/detection-rules)** | 7 Sigma rules mapped to MITRE ATT&CK, with Splunk & KQL versions, triage notes, and CI validation |
-| 🐍 **IOC Enrichment Tool** *(coming soon)* | Python tool that checks IPs, domains & hashes against threat intel APIs |
+| 🐍 **[IOC Enrichment Tool](https://github.com/iamafrozmohd/ioc-enricher)** | Python CLI that checks IPs, domains, URLs & hashes against VirusTotal and AbuseIPDB and gives a verdict per indicator, with tests and CI |
 | ⚙️ **DevSecOps Pipeline** *(coming soon)* | GitHub Actions pipeline with Semgrep, Trivy & Checkov |
 | 📘 **Incident Response Playbooks** *(coming soon)* | Phishing, brute-force & malware response playbooks |
 
