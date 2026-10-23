@@ -27,7 +27,7 @@ Security Analyst / SOC (Tier 1–2) · Incident Response · Vulnerability Manage
 | 🔍 **[Detection Rules Library](https://github.com/iamafrozmohd/detection-rules)** | 7 Sigma rules mapped to MITRE ATT&CK, with Splunk & KQL versions, triage notes, and CI validation |
 | 🐍 **[IOC Enrichment Tool](https://github.com/iamafrozmohd/ioc-enricher)** | Python CLI that checks IPs, domains, URLs & hashes against VirusTotal and AbuseIPDB and gives a verdict per indicator, with tests and CI |
 | ⚙️ **[DevSecOps Pipeline](https://github.com/iamafrozmohd/devsecops-pipeline)** | GitHub Actions pipeline guarding a Flask API, its Docker image and Azure Terraform: Semgrep, Gitleaks, Trivy, Checkov and OWASP ZAP, with every finding fixed or formally risk-accepted |
-| 📘 **Incident Response Playbooks** *(coming soon)* | Phishing, brute-force & malware response playbooks |
+| 📘 **[Incident Response Playbooks](https://github.com/iamafrozmohd/ir-playbooks)** | Phishing, brute-force and malware playbooks following NIST 800-61, with ATT&CK mapping, decision flows, KQL/SPL hunting queries and an incident report template |
 
 ---
 
